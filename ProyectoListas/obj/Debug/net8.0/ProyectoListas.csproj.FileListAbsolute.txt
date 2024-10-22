@@ -1,0 +1,14 @@
+C:\Users\Omar Campos\source\repos\ProyectoListas\ProyectoListas\obj\Debug\net8.0\ProyectoListas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omar Campos\source\repos\ProyectoListas\ProyectoListas\obj\Debug\net8.0\ProyectoListas.AssemblyInfoInputs.cache
+C:\Users\Omar Campos\source\repos\ProyectoListas\ProyectoListas\obj\Debug\net8.0\ProyectoListas.AssemblyInfo.cs
+C:\Users\Omar Campos\source\repos\ProyectoListas\ProyectoListas\obj\Debug\net8.0\ProyectoListas.csproj.CoreCompileInputs.cache
+C:\Users\Omar Campos\source\repos\ProyectoListas\ProyectoListas\bin\Debug\net8.0\ProyectoListas.exe
+C:\Users\Omar Campos\source\repos\ProyectoListas\ProyectoListas\bin\Debug\net8.0\ProyectoListas.deps.json
+C:\Users\Omar Campos\source\repos\ProyectoListas\ProyectoListas\bin\Debug\net8.0\ProyectoListas.runtimeconfig.json
+C:\Users\Omar Campos\source\repos\ProyectoListas\ProyectoListas\bin\Debug\net8.0\ProyectoListas.dll
+C:\Users\Omar Campos\source\repos\ProyectoListas\ProyectoListas\bin\Debug\net8.0\ProyectoListas.pdb
+C:\Users\Omar Campos\source\repos\ProyectoListas\ProyectoListas\obj\Debug\net8.0\ProyectoListas.dll
+C:\Users\Omar Campos\source\repos\ProyectoListas\ProyectoListas\obj\Debug\net8.0\refint\ProyectoListas.dll
+C:\Users\Omar Campos\source\repos\ProyectoListas\ProyectoListas\obj\Debug\net8.0\ProyectoListas.pdb
+C:\Users\Omar Campos\source\repos\ProyectoListas\ProyectoListas\obj\Debug\net8.0\ProyectoListas.genruntimeconfig.cache
+C:\Users\Omar Campos\source\repos\ProyectoListas\ProyectoListas\obj\Debug\net8.0\ref\ProyectoListas.dll
